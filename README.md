@@ -32,3 +32,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     How to integrate an audio file in a webpage
     How to embed external content
     How to correctly structure an HTML page
+
+## Sitemap of the project
+
+
+## Wireframe of Techium project
